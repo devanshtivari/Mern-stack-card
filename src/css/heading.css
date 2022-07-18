@@ -1,0 +1,10 @@
+.header{
+    background-color: #2F2FA2;
+    height: 10vh;
+    color: #fff;
+    text-align: center
+}
+.heading-main{
+    font-size: 30px;
+    display: inline;
+}

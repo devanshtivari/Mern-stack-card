@@ -1,0 +1,15 @@
+.card-box{
+    background-color: #F64C72 ;
+    width: 30vw;
+    height: 40vh;
+    border-radius: 8px;
+    margin: auto;
+    box-shadow: 0 0 8px #cacae7;
+}
+.heading{
+    font-weight: 600;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 6px;
+    font-size: 28px;
+}
